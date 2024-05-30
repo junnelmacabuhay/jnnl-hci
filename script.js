@@ -1,7 +1,7 @@
 const sampleData = {
     labels: ['January', 'February', 'March', 'April', 'May', 'June'],
     datasets: [{
-      label: 'MACABUHAY OUTPUT',
+      label: 'SCORES IN MY NOT SO FAV SUBJECT (MATH)',
       data: [12, 33, 25, 46, 96, 73, 10, 49, 67, 80, 58, 100],
       backgroundColor: 'rgba(168, 56, 141, 0.8',
       borderColor: 'rgba(28, 255, 205, 0.91)',
